@@ -4,17 +4,17 @@ Comment=A theme rooted in the icon designs of the noughties.
 Inherits=breeze,Breeze
 Example=folder
 
-DesktopDefault=48
+DesktopDefault=64
 DesktopSizes=16,22,32,48,64,128,256
-ToolbarDefault=22
+ToolbarDefault=32
 ToolbarSizes=16,22,32,48,64,128,256
-MainToolbarDefault=22
+MainToolbarDefault=32
 MainToolbarSizes=16,22,32,48,64,128,256
-SmallDefault=22
+SmallDefault=32
 SmallSizes=16,22,32,48,64,128,256
-PanelDefault=48
+PanelDefault=64
 PanelSizes=16,22,32,48,64,128,256
-DialogDefault=32
+DialogDefault=48
 DialogSizes=16,22,32,48,64,128,256
 
 # Directory list
