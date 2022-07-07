@@ -1,24 +1,25 @@
 [Icon Theme]
 Name=Nova7
-Comment=A theme rooted in the icon designs of the noughties.  
+Comment=A theme rooted in the icon designs of the noughties.
 Inherits=breeze,Breeze
 Example=folder
 
-DesktopDefault=64
-DesktopSizes=16,22,32,48,64,128,256
+DisplayDepth=32
+DesktopDefault=72
+DesktopSizes=16,22,32,48,64,72,96,128,256
 ToolbarDefault=32
-ToolbarSizes=16,22,32,48,64,128,256
+ToolbarSizes=16,22,32,48,64,72,96,128,256
 MainToolbarDefault=32
-MainToolbarSizes=16,22,32,48,64,128,256
+MainToolbarSizes=16,22,32,48,64,72,96,128,256
 SmallDefault=32
-SmallSizes=16,22,32,48,64,128,256
+SmallSizes=16,22,32,48,64,72,96,128,256
 PanelDefault=64
-PanelSizes=16,22,32,48,64,128,256
+PanelSizes=16,22,32,48,64,72,96,128,256
 DialogDefault=48
-DialogSizes=16,22,32,48,64,128,256
+DialogSizes=16,22,32,48,64,72,96,128,256
 
 # Directory list
-Directories=actions/16x16,actions/22x22,actions/32x32,actions/48x48,actions/64x64,actions/128x128,actions/256x256,apps/16x16,apps/22x22,apps/32x32,apps/48x48,apps/64x64,apps/128x128,apps/256x256,categories/16x16,categories/22x22,categories/32x32,categories/48x48,categories/64x64,categories/128x128,categories/256x256,devices/16x16,devices/22x22,devices/32x32,devices/48x48,devices/64x64,devices/128x128,devices/256x256,emblems/16x16,emblems/22x22,emblems/32x32,emblems/48x48,emblems/64x64,emblems/128x128,emblems/256x256,emotes/16x16,emotes/22x22,emotes/32x32,emotes/48x48,emotes/64x64,emotes/128x128,emotes/256x256,mimetypes/16x16,mimetypes/22x22,mimetypes/32x32,mimetypes/48x48,mimetypes/64x64,mimetypes/128x128,mimetypes/256x256,places/16x16,places/22x22,places/32x32,places/48x48,places/64x64,places/128x128,places/256x256,preferences/16x16,preferences/22x22,preferences/32x32,preferences/48x48,preferences/64x64,preferences/128x128,preferences/256x256,status/16x16,status/22x22,status/32x32,status/48x48,status/64x64,status/128x128,status/256x256
+Directories=actions/16x16,actions/22x22,actions/32x32,actions/48x48,actions/64x64,actions/72x72,actions/96x96,actions/128x128,actions/256x256,apps/16x16,apps/22x22,apps/32x32,apps/48x48,apps/64x64,apps/72x72,apps/96x96,apps/128x128,apps/256x256,categories/16x16,categories/22x22,categories/32x32,categories/48x48,categories/64x64,categories/72x72,categories/96x96,categories/128x128,categories/256x256,devices/16x16,devices/22x22,devices/32x32,devices/48x48,devices/64x64,devices/72x72,devices/96x96,devices/128x128,devices/256x256,emblems/16x16,emblems/22x22,emblems/32x32,emblems/48x48,emblems/64x64,emblems/72x72,emblems/96x96,emblems/128x128,emblems/256x256,emotes/16x16,emotes/22x22,emotes/32x32,emotes/48x48,emotes/64x64,emotes/72x72,emotes/96x96,emotes/128x128,emotes/256x256,mimetypes/16x16,mimetypes/22x22,mimetypes/32x32,mimetypes/48x48,mimetypes/64x64,mimetypes/72x72,mimetypes/96x96,mimetypes/128x128,mimetypes/256x256,places/16x16,places/22x22,places/32x32,places/48x48,places/64x64,places/72x72,places/96x96,places/128x128,places/256x256,preferences/16x16,preferences/22x22,preferences/32x32,preferences/48x48,preferences/64x64,preferences/72x72,preferences/96x96,preferences/128x128,preferences/256x256,status/16x16,status/22x22,status/32x32,status/48x48,status/64x64,status/72x72,status/96x96,status/128x128,status/256x256
 
 [actions/16x16]
 Size=16
@@ -43,6 +44,16 @@ Type=Fixed
 
 [actions/64x64]
 Size=64
+Context=Actions
+Type=Fixed
+
+[actions/72x72]
+Size=72
+Context=Actions
+Type=Fixed
+
+[actions/96x96]
+Size=96
 Context=Actions
 Type=Fixed
 
@@ -84,6 +95,16 @@ Size=64
 Context=Applications
 Type=Fixed
 
+[apps/72x72]
+Size=72
+Context=Applications
+Type=Fixed
+
+[apps/96x96]
+Size=96
+Context=Applications
+Type=Fixed
+
 [apps/128x128]
 Size=128
 Context=Applications
@@ -121,6 +142,16 @@ Size=64
 Context=Categories
 Type=Fixed
 
+[categories/72x72]
+Size=72
+Context=Categories
+Type=Fixed
+
+[categories/96x96]
+Size=96
+Context=Categories
+Type=Fixed
+
 [categories/128x128]
 Size=128
 Context=Categories
@@ -155,6 +186,16 @@ Type=Fixed
 
 [devices/64x64]
 Size=64
+Context=Devices
+Type=Fixed
+
+[devices/72x72]
+Size=72
+Context=Devices
+Type=Fixed
+
+[devices/96x96]
+Size=96
 Context=Devices
 Type=Fixed
 
@@ -196,6 +237,16 @@ Size=64
 Context=Emblems
 Type=Fixed
 
+[emblems/72x72]
+Size=72
+Context=Emblems
+Type=Fixed
+
+[emblems/96x96]
+Size=96
+Context=Emblems
+Type=Fixed
+
 [emblems/128x128]
 Size=128
 Context=Emblems
@@ -231,6 +282,16 @@ Type=Fixed
 
 [emotes/64x64]
 Size=64
+Context=Emblems
+Type=Fixed
+
+[emotes/72x72]
+Size=72
+Context=Emblems
+Type=Fixed
+
+[emotes/96x96]
+Size=96
 Context=Emblems
 Type=Fixed
 
@@ -273,6 +334,16 @@ Size=64
 Context=MimeTypes
 Type=Fixed
 
+[mimetypes/72x72]
+Size=64
+Context=MimeTypes
+Type=Fixed
+
+[mimetypes/96x96]
+Size=64
+Context=MimeTypes
+Type=Fixed
+
 [mimetypes/128x128]
 Size=128
 Context=MimeTypes
@@ -308,6 +379,16 @@ Type=Fixed
 
 [places/64x64]
 Size=64
+Context=Places
+Type=Fixed
+
+[places/72x72]
+Size=72
+Context=Places
+Type=Fixed
+
+[places/96x96]
+Size=96
 Context=Places
 Type=Fixed
 
@@ -349,6 +430,16 @@ Size=64
 Context=Places
 Type=Fixed
 
+[preferences/72x72]
+Size=72
+Context=Places
+Type=Fixed
+
+[preferences/96x96]
+Size=96
+Context=Places
+Type=Fixed
+
 [preferences/128x128]
 Size=128
 Context=Places
@@ -384,6 +475,16 @@ Type=Fixed
 
 [status/64x64]
 Size=64
+Context=Places
+Type=Fixed
+
+[status/72x72]
+Size=72
+Context=Places
+Type=Fixed
+
+[status/96x96]
+Size=96
 Context=Places
 Type=Fixed
 
