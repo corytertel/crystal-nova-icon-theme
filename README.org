@@ -1,1 +1,8 @@
-This is an unofficial github mirror of the Nova7 icons at https://store.kde.org/p/1379986
+** The Nova7 icons merged with the best of Crystal Remix Icons
+
+This is a fork the Nova7 icons at https://store.kde.org/p/1379986
+
+All licenses can be found in the licenses folder.
+
+The Crystal Remix icons that have been merged in are under the LGPL license, as
+that is what the crystal remix icons are licensed under.
