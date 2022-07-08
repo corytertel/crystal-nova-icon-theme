@@ -1,10 +1,13 @@
 [Icon Theme]
-Name=Nova7
-Comment=A theme rooted in the icon designs of the noughties.
+Name=Crystal Nova
+Comment=The best of Nova7 and Crystal Remix mixed
 Inherits=breeze,Breeze
 Example=folder
 
 DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
 DesktopDefault=72
 DesktopSizes=16,22,32,48,64,72,96,128,256
 ToolbarDefault=32
